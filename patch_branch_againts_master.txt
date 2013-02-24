@@ -1,0 +1,2 @@
+#patch current branch againts master
+git format-patch master --stdout > patch_from.patch
